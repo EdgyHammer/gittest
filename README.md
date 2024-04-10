@@ -1,2 +1,2 @@
 # gittest
-A minimal repo for downloading/git test
+A minimal repo for download/git test
